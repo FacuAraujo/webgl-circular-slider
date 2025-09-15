@@ -14,7 +14,7 @@ An interactive circular slider built with Three.js and GSAP, featuring uniformly
 
 ## 🚀 Live Demo
 
-[View Demo](https://webgl-circular-slider.vercel.app) *(Replace with your URL)*
+[View Demo](https://webgl-circular-slider.vercel.app)
 
 ## 🛠️ Installation
 
